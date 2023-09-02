@@ -3,7 +3,7 @@ body {
 }
 
 .card {
-  --bs-card-cap-bg: #fff;
+  --bs-card-bg: #fff;
   background-color: var(--bs-card-bg);
 }
 
