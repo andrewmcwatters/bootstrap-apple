@@ -8,6 +8,12 @@ body {
   --bs-nav-link-hover-color: #000000;
 }
 
+.navbar-link:hover,
+.navbar-link:focus {
+  color: var(--bs-nav-link-hover-color);
+  text-decoration: none;
+}
+
 .navbar {
   --bs-navbar-brand-font-size: 12px;
 }
