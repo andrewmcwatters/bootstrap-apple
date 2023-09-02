@@ -5,7 +5,7 @@ body {
 .nav {
   --bs-nav-link-font-size: 12px;
   --bs-nav-link-color: rgba(0, 0, 0, 0.8);
-  --bs-nav-link-hover-color: rgba(0, 0, 0, 0.8);
+  --bs-nav-link-hover-color: #000000;
 }
 
 .navbar {
