@@ -2,6 +2,11 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+.card {
+  --bs-card-cap-bg: #fff;
+  background-color: var(--bs-card-bg);
+}
+
 .nav {
   --bs-nav-link-font-size: 12px;
   --bs-nav-link-color: rgba(0, 0, 0, 0.8);
