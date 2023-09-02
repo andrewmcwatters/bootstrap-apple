@@ -1,3 +1,8 @@
+:root {
+  --bs-nav-link-color: rgba(0, 0, 0, 0.8);
+  --bs-nav-link-hover-color: rgba(0, 0, 0, 0.8);
+}
+
 body {
   -webkit-font-smoothing: antialiased;
 }
