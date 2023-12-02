@@ -23,5 +23,8 @@
 
 a .sidebar-item {
   color: var(--bs-body-color);
+}
+
+a:hover .sidebar-item {
   text-decoration: none;
 }
