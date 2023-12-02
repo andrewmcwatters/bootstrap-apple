@@ -1,8 +1,10 @@
 .sidebar-item {
   padding-left: 12px;
   padding-right: calc(5px + 10px);
+  display: flex;
   height: 32px;
   border-radius: 10px;
+  align-items: center;
 }
 
 .sidebar-item:active {
