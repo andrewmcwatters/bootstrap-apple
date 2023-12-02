@@ -21,10 +21,10 @@
   background: rgba(0, 0, 2, 0.1);
 }
 
-a .sidebar-item {
+a.sidebar-item {
   color: var(--bs-body-color);
 }
 
-a:hover .sidebar-item {
-  text-decoration: none;
+a.sidebar-item:hover {
+  text-decoration-line: none;
 }
