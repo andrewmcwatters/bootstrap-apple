@@ -14,3 +14,7 @@
 .sidebar-item:hover {
   background-color: rgba(0, 0, 0, 0.04);
 }
+
+.sidebar-item.is-selected {
+  background: rgba(0, 0, 2, 0.1);
+}
