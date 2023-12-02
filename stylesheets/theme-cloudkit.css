@@ -3,6 +3,7 @@
   padding-right: calc(5px + 10px);
   display: flex;
   height: 32px;
+  font-size: 15px;
   border-radius: 10px;
   cursor: pointer;
   align-items: center;
