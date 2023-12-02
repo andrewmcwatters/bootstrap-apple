@@ -26,5 +26,6 @@ a.sidebar-item {
 }
 
 a.sidebar-item:hover {
+  color: var(--bs-body-color);
   text-decoration-line: none;
 }
