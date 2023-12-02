@@ -20,3 +20,8 @@
 .sidebar-item.is-selected {
   background: rgba(0, 0, 2, 0.1);
 }
+
+a .sidebar-item {
+  color: var(--bs-body-color);
+  text-decoration: none;
+}
