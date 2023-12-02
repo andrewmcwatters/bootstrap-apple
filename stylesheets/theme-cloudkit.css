@@ -8,7 +8,7 @@
   align-items: center;
 }
 
-.sidebar-item:active {
+.sidebar-item:active:hover {
   background-color: rgba(0, 113, 227, 0.16);
 }
 
