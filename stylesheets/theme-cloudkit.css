@@ -1,6 +1,7 @@
 .sidebar-item {
   padding-left: 12px;
   padding-right: calc(5px + 10px);
+  height: 32px;
   border-radius: 10px;
 }
 
