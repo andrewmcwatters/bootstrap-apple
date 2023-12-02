@@ -1,0 +1,13 @@
+.sidebar-item {
+  padding-left: 12px;
+  padding-right: calc(5px + 10px);
+  border-radius: 10px;
+}
+
+.sidebar-item:active {
+  background-color: rgba(0, 113, 227, 0.16);
+}
+
+.sidebar-item:hover {
+  background-color: rgba(0, 0, 0, 0.04);
+}
